@@ -12,7 +12,7 @@ const Contact = () => {
       <div className="container contact" id="contact">
         <h1>Contact Me</h1>
         <div className="contact-icon" data-aos="zoom-in-up" data-aos-duration="1000">
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="https://www.instagram.com" target="_blank" className="items">
             <FaInstagram className="icons" />
           </a>
           <a href="https://www.facebook.com" target="_blank" className="items">
@@ -21,7 +21,7 @@ const Contact = () => {
           <a href="https://www.linkedin.com" target="_blank" className="items">
             <CiLinkedin className="icons" />
           </a>
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="https://x.com" target="_blank" className="items">
             <FaSquareXTwitter className="icons" />
           </a>
           <a href="https://github.com" target="_blank" className="items">
